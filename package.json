@@ -1,0 +1,22 @@
+{
+  "name": "2106-1-",
+  "version": "0.0.2",
+  "description": "express server for zoom tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliotte-kortus/2106-1-.git"
+  },
+  "author": "elliotte kortus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliotte-kortus/2106-1-/issues"
+  },
+  "homepage": "https://github.com/elliotte-kortus/2106-1-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
